@@ -9,4 +9,4 @@ Here comes the but, anytime during the game, if either of yours sum exceeds 21, 
 Make right decisions and challenge your brain.
 # Prerequisites
 * Python
-# Take it slow, let your mind process it and then make the decision
+## Take it slow, let your mind process it and then make the decision
