@@ -7,6 +7,6 @@ When computer ji draws second card and his sum would be greater than your cards 
 **But..**
 Here comes the but, anytime during the game, if either of yours sum exceeds 21, you loose.
 Make right decisions and challenge your brain.
-# Prerequisites
+## Prerequisites
 * Python
-## Take it slow, let your mind process it and then make the decision
+#### Take it slow, let your mind process it and then make the decision
